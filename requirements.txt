@@ -1,0 +1,8 @@
+kagglehub
+pandas
+numpy
+matplotlib
+mlxtend
+scikit-learn
+statsmodels
+ISLP
